@@ -1,0 +1,12 @@
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/bin/Debug/netcoreapp3.1/xadrez-console.deps.json
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/bin/Debug/netcoreapp3.1/xadrez-console.runtimeconfig.json
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/bin/Debug/netcoreapp3.1/xadrez-console.runtimeconfig.dev.json
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/bin/Debug/netcoreapp3.1/xadrez-console.dll
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/bin/Debug/netcoreapp3.1/xadrez-console.pdb
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.csprojAssemblyReference.cache
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.AssemblyInfoInputs.cache
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.AssemblyInfo.cs
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.csproj.CoreCompileInputs.cache
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.dll
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.pdb
+/Users/lucassantos/CursoC#/xadrez-console/xadrez-console/obj/Debug/netcoreapp3.1/xadrez-console.genruntimeconfig.cache

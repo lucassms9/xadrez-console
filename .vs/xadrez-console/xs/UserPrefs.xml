@@ -1,21 +1,31 @@
 ﻿<Properties StartupConfiguration="{EAA5BD88-4D75-494A-9DCB-B6469AB05208}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez-console/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xadrez-console/xadrez/Peao.cs">
     <Files>
-      <File FileName="xadrez-console/Program.cs" Line="1" Column="1" />
+      <File FileName="xadrez-console/xadrez/PartidaDeXadrez.cs" Line="136" Column="1" />
+      <File FileName="xadrez-console/Tela.cs" Line="23" Column="1" />
+      <File FileName="xadrez-console/Program.cs" Line="44" Column="47" />
+      <File FileName="xadrez-console/tabuleiro/Peca.cs" Line="46" Column="38" />
+      <File FileName="xadrez-console/xadrez/Bispo.cs" Line="9" Column="10" />
+      <File FileName="xadrez-console/xadrez/Cavalo.cs" Line="80" Column="2" />
+      <File FileName="xadrez-console/xadrez/Dama.cs" Line="129" Column="2" />
+      <File FileName="xadrez-console/xadrez/Peao.cs" Line="116" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="xadrez-console" expanded="True">
             <Node name="xadrez-console" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="tabuleiro" expanded="True" />
+              <Node name="xadrez" expanded="True">
+                <Node name="Peao.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.xadrez-console FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.xadrez-console PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
